@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\user\Plugin\block\block\UserLoginBlock.
+ * Contains \Drupal\user\Plugin\Block\UserLoginBlock.
  */
 
-namespace Drupal\user\Plugin\block\block;
+namespace Drupal\user\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;

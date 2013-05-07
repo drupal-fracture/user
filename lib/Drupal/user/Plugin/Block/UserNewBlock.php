@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\user\Plugin\block\block\UserNewBlock.
+ * Contains \Drupal\user\Plugin\Block\UserNewBlock.
  */
 
-namespace Drupal\user\Plugin\block\block;
+namespace Drupal\user\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
